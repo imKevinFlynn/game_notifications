@@ -1,0 +1,7 @@
+pygame==2.1.2
+opencv-python==4.6.0.66
+mss==7.0.1
+numpy==1.24.0
+aiogram==2.23.1
+python-dotenv==0.21.0
+PyQt5==5.15.7
